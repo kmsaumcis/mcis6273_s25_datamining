@@ -216,7 +216,7 @@ load the CSV into a DataFrame
 using the following code:
 
 ```python
-  df = pd.read_csv( "./data/2024_flavors_of_cacoa.csv", sep='\t')
+  df = pd.read_csv( "./data/2024_flavors_of_cacoa.tsv", sep='\t')
 ```
 
 There is a starter notebook on Github with the first cells
