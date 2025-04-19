@@ -5,7 +5,7 @@
 | # | Link | Description | Due Date |
 |:-:|:----:|:-----------:|:--------:|
 | 0 | HW0 <br/> [[pdf]](./hw0/hw0.pdf) [[md]](./hw0/hw0.md) [[ipynb]](./hw0/hw0.ipynb); <br/>starter notebook   <br/>  | Data Engineering and Python Data Science warmup | 2/17 @ Midnight |
-| 1 | HW1 <br/> [[pdf]](./hw1/hw1.pdf) [[md]](./hw1/hw1.md) [[ipynb]](./hw1/hw1_starter.ipynb)   <br/>  | Unsupervised + Supervised Learning | May 4  @ Midnight |
+| 1 | HW1 <br/> [[pdf]](./hw1/hw1.pdf) [[md]](./hw1/hw1.md) [[ipynb]](./hw1/hw1_starter.ipynb)   <br/>  | Unsupervised + Supervised Learning | 5/4  @ Midnight |
 
 <!--
 
